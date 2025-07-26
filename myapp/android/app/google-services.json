@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840673199593",
+    "project_id": "my-wallet-4c9fc",
+    "storage_bucket": "my-wallet-4c9fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840673199593:android:dd9461b10a81607ff7f778",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxg_RrbLqxLghA_H2qoK-9P1t5Z0_aYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
